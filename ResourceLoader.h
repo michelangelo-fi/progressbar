@@ -1,0 +1,8 @@
+//
+// Created by michelangelo on 27/08/24.
+//
+
+#ifndef PROGRESSBAR_RESOURCELOADER_H
+#define PROGRESSBAR_RESOURCELOADER_H
+
+#endif //PROGRESSBAR_RESOURCELOADER_H
